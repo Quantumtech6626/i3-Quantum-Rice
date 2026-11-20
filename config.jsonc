@@ -1,0 +1,30 @@
+ {
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "keyColor": "blue",
+   "logo": {
+          "type": "file",
+	  "source": "/home/alena/Dokumente/ascii-art 3_2210.txt"
+           },
+  "modules": [	  
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "packages",
+    "shell",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "memory",
+    "break"
+   
+  ]
+}
+
